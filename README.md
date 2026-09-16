@@ -114,6 +114,24 @@ Completed proposal is generated
 | Excel Formulas | Calculations and validation |
 
 ---
+## Try the Demo
+
+The working demonstration files are included in this repository:
+
+- [Download the Excel VBA Calculator](Demo/Septic_Design_Calculator.xlsm)
+- [Download the Word Proposal Template](Demo/Septic_Proposal_Template.docx)
+
+### Running the Demo
+
+1. Download both files.
+2. Place both files in the **same folder** on your computer.
+3. Open `Septic_Design_Calculator.xlsm` in Microsoft Excel.
+4. Enable macros if prompted.
+5. Enter or amend the demonstration values.
+6. Run the `GenerateProposal` macro.
+7. Microsoft Word will open and the proposal template will be automatically populated with the Excel data.
+
+> **Important:** The calculations and septic-system parameters in this project are for demonstration purposes only. This project showcases Excel VBA and Microsoft Office automation and should not be used for real engineering design.
 
 ## VBA Source Code
 
